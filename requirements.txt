@@ -1,0 +1,4 @@
+pypdf== 6.1.1
+sentence-transformers== 5.1.1
+numpy== 1.26.1
+scikit-learn== 1.7.2
