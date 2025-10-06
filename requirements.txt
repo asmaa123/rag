@@ -4,5 +4,5 @@ transformers==4.37.2
 torch==2.5.1
 numpy==1.26.4
 scikit-learn==1.5.1
-faiss-cpu==1.8.0
+faiss-cpu==1.7.4
 streamlit==1.39.0
